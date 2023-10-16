@@ -1,0 +1,98 @@
+p, b, h1 {
+   color: white
+}
+
+
+
+.white {
+   color: white;
+}
+.nav-bg {
+   background-color: #222435
+}
+
+.bookworms-log {
+   text-decoration: underline;
+}
+
+.active {
+   color: white
+}
+
+.box {
+   border: #1a1c1e solid 5px;
+   border-radius: 5px;
+   background-color: #1a1c1e;
+   padding: 10px;
+}
+
+.comment-pfp {
+   width: 50px;
+   height: 50px;
+   border-radius: 10px;
+}
+
+.profile-pfp {
+   width: 100px;
+   height: 100px;
+   border-radius: 10px;
+}
+
+.username {
+   left: 100px;
+}
+
+.like-btn {
+   color: #27b3fd
+}
+.like-btn:hover {
+   color: #92e3ff
+}
+
+.cover {
+   height: 300px;
+   width: 200px;
+   border-radius: 5px;
+}
+
+.main-cover {
+   height: 600px;
+   width: 400px;
+   border-radius: 5px;
+}
+
+.counter {
+   margin-bottom: 0px;
+   color: #1fa2fd;
+}
+
+.no-margin {
+   margin-bottom: 0px;
+}
+
+.plus:hover {
+   color: #9CD7F7; 
+}
+
+.counter-bg {
+   background-color: black;
+   width: 200px;
+   height: 40px;
+   opacity: 0.7;
+}
+
+.back-arrow {
+   color: white;
+   font-size: 50px;
+   margin-bottom: 20px;
+}
+
+.smaller {
+   font-size: 25px;
+}
+
+.news-cover {
+   height: 175px;
+   width: 200px;
+}
+

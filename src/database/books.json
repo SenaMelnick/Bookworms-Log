@@ -1,0 +1,41 @@
+[
+    {
+     "title": "The Eye of The World",
+     "author": "Robert Jorden",
+     "publish": "1990",
+     "medium": "Novel",
+     "chapterCount": 53,
+     "currentChapter": 24,
+     "wordCount": "300,147",
+     "rating": "8.5",
+     "cover": "https://i.imgur.com/q2vv5ML.jpg",
+     "synopsis": "The Wheel of Time turns and Ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. What was, what will be, and what is, may yet fall under the Shadow. Moiraine Damodred arrives in Emond’s Field on a quest to find the one prophesized to stand against The Dark One, a malicious entity sowing the seeds of chaos and destruction. When a vicious band of half-men, half beasts invade the village seeking their master’s enemy, Moiraine persuades Rand al’Thor and his friends to leave their home and enter a larger unimaginable world filled with dangers waiting in the shadows and in the light.",
+     "id": "1"
+    },
+    {
+     "title": "ChäoS;HEĀd NoAH",
+     "author": "Hayashi Naotaka",
+     "publish": "2008",
+     "medium": "Visual Novel",
+     "chapterCount": 16,
+     "currentChapter": 14,
+     "wordCount": "236,581",
+     "rating": "8",
+     "cover": "https://i.imgur.com/3X8dH6c.jpg",
+     "synopsis": "'If you were God, and your delusions could become reality, what delusions would you wish for? A sensual world? A despotic society? Destructive sanctions? Or...' Nishijou Takumi, a shut-in gamer and anime otaku, spends his days locked away in a shipping container while occasionally attending classes. In his place of residence, Shibuya, a bizarre string of serial killings is set in motion as he is dragged into the ordeal.",
+     "id": "2"
+    },
+    {
+     "title": "Re:Zero",
+     "author": "Tappei Nagatsuki",
+     "publish": "2014",
+     "medium": "Light Novel",
+     "chapterCount": 7,
+     "currentChapter": 1,
+     "wordCount": "60,000",
+     "rating": "8.5",
+     "cover": "https://i.imgur.com/MwiRrfy.jpg",
+     "synopsis": "Subaru Natsuki was just trying to get to the convenience store but wound up summoned to another world. He encounters the usual things--life-threatening situations, silver haired beauties, cat fairies--you know, normal stuff. All that would be bad enough, but he's also gained the most inconvenient magical ability of all--time travel, but he's got to die to use it. How do you repay someone who saved your life when all you can do is die?",
+     "id": "3"
+    }
+   ]
