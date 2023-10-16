@@ -26,6 +26,7 @@ export default class Booklist extends React.Component {
 
         const bookPage = this.state.booksArray.map(book => {
             return (
+                //CSS for back arrow sourced from https://fontawesome.com
                 <Route path={`/booklist/${book.id}`}>
                     <div className="row">
                         <div className="col">

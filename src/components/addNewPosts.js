@@ -6,6 +6,7 @@ export default class AddNewPosts extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
+            //array is reversed to ensure newer posts are always on top
             posts: Object.values(this.props).reverse()
         }
     };

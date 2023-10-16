@@ -9,6 +9,7 @@ import App from './App';
 import '../node_modules/bootstrap/dist/css/bootstrap.css';
 import './Index.css';
 
+//class for containing all fetch() methods used by this project
 export default class FetchMethods {
   constructor() {
   };
@@ -105,6 +106,7 @@ export default class FetchMethods {
   };
 };
 
+//this is an IIFE (immeidately-invoked function expression), which I needed to use since top level await is not allowed in this version of Webpack
 (async () => {
   const books = await FetchMethods.get('books');
   const posts = await FetchMethods.get('posts');

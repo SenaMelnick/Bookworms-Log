@@ -31,10 +31,8 @@ export default class BookPreview extends React.Component {
     };
 
     logChap() {
-        console.log('This works')
         console.log(this.state.currentChap)
         if (this.state.currentChap < this.props.chapterCount) {
-            console.log('Also works')
             FetchMethods.putChap(this.props.id, this.state.currentChap + 1)
             this.setState(state => ({currentChap: state.currentChap + 1}))
         };

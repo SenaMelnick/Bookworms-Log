@@ -11,6 +11,7 @@ export default class LikeButton extends React.Component {
     };
 
     render() {
+        //CSS for like button sourced from https://fontawesome.com
         return (
             <div className="col-2">
                 <div className="row">

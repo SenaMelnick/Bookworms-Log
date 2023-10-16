@@ -6,7 +6,6 @@ import {
   Link,
   useRouteMatch
 } from 'react-router-dom';
-import FetchMethods from '.';
 import Post from './components/post';
 import AddNewPosts from './components/addNewPosts';
 import Booklist from './components/booklist';
@@ -38,6 +37,7 @@ export default function App(props) {
 };
 
 function Nav() {
+  //the links in this navbar also contain routes, to create the effect of them being "active" at their corresponding URLs
   return (
     <div>
         <nav className="navbar navbar-expand-lg navbar-dark nav-bg">
