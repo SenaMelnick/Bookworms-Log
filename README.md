@@ -1,10 +1,4 @@
-<!-- 
-    Copyright (c) 2023 Promineo Tech
-    Author:  Promineo Tech Academic Team
-    Subject: React Router Boiler Plate
-  ------------------------------------------->
-  
-# React Crud API App
+# Bookworn's Log
 
 ## Infomation 
 
